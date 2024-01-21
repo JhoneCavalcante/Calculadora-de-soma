@@ -1,0 +1,35 @@
+* {
+    margin: 0; /*zerando as margens*/
+}
+body {
+    font: normal 18pt Arial;   /*fonte e tamanho*/
+    text-align: center; /*texto centralizado*/
+}
+
+h1 {     /*editando margens*/
+    margin-top: 30px; 
+    margin-bottom: 20px;
+}
+
+input { /*editando inputs*/
+    font: normal 18pt arial;
+    width: 100px;
+    background-color: green;
+    color: black;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+div#res { /*editando a div*/
+    margin-top: 20px;
+    background-color: #9ac2e5;
+}
+
+#button { /*editando o botão*/
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    margin: none;
+    border: 0;
+    
+}
